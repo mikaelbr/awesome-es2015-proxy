@@ -1,0 +1,22 @@
+{
+  "name": "proxy-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy-api.js",
+  "dependencies": {
+    "fast-levenshtein": "^1.1.3",
+    "immutable": "^3.8.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "mocha": "^2.5.2"
+  },
+  "scripts": {
+    "test": "mocha test-tools/"
+  },
+  "keywords": ["javascript", "proxy", "fun", "metaprogramming"],
+  "author": "Mikael Brevik <mikaelbre@gmail.com>",
+  "license": "MIT"
+}
