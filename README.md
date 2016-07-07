@@ -28,7 +28,7 @@
 Run all examples in this repo by using `node@6`:
 
 ```shell
-$ node <example-file>.js
+$ node ./examples/<example-file>.js
 ```
 
 Examples using tracing and tests can be run using `npm`:
@@ -36,3 +36,5 @@ Examples using tracing and tests can be run using `npm`:
 ```shell
 $ npm test
 ```
+
+Remember to install all example dependencies by doing `npm i`
