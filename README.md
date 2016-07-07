@@ -2,7 +2,7 @@
 
 For learning how to use JavaScript Proxy, or just to see what is possible.
 
-## Resources
+## External Resources
 
 ### Presentations
 
@@ -14,7 +14,12 @@ For learning how to use JavaScript Proxy, or just to see what is possible.
 - https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/
 - http://www.2ality.com/2014/12/es6-proxies.html
 - http://exploringjs.com/es6/ch_proxies.html
+- https://ponyfoo.com/articles/es6-proxies-in-depth
 
+### Modules/Packages
+
+- [zer](https://github.com/jbmusso/zer): Zer helps you serialize any JavaScript chains to String representations of any languages by leveraging ES2015 `Proxy` objects
+- [negative-array](https://github.com/sindresorhus/negative-array): Negative array index support `array[-1]` using ES2015 Proxy
 
 ## Examples
 
