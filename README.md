@@ -20,6 +20,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [ES6 Proxies in Depth](https://ponyfoo.com/articles/es6-proxies-in-depth) by Nicolás Bevacqua
 - [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies?hl=en) by Addy Osmani
 - [ES6 In Depth: Proxies](https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/) by Jason Orendorff
+- [Object Path resolver](https://h3manth.com/new/blog/2016/path-resolver-with-javascript-proxies/)
+- [Negitive arrays](https://h3manth.com/new/blog/2013/negative-array-index-in-javascript/)
 
 ### Modules/Packages
 
