@@ -6,6 +6,8 @@
 
 Know of any brilliant resources? [Let us know](https://github.com/mikaelbr/proxy-fun/issues/new) and we'll create a vast collection of awesomeness.
 
+TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./examples-summary.md).
+
 ## Resources
 
 ### Presentations
