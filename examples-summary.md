@@ -1,7 +1,7 @@
 # Summary overview
 
 A example summary to get a better overview of what is possible using the Proxy object.
-All examples can be seen in it's entirety in the [`./examples` folder](./example).
+All examples can be seen in it's entirety in the [`./examples` folder](./examples).
 
 ## Helping API
 
