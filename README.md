@@ -10,15 +10,14 @@ Know of any brilliant resources? [Let us know](https://github.com/mikaelbr/proxy
 
 ### Presentations
 
-- Slides: [Metaprogramming SUPERPOWERS](http://slides.com/elektronik/metaprogramming-via-es2015-proxies#/) by [@elektronik2k5](https://github.com/elektronik2k5)
+- Slides: [Metaprogramming SUPERPOWERS](http://slides.com/elektronik/metaprogramming-via-es2015-proxies#/) by Nickolay Ribal
 - Video: [Breaking the Fourth Wall With JavaScript](https://opbeat.com/events/web-rebels-2016/#breaking-the-fourth-wall-with-javascript) by Mikael Brevik
 
-
 ### Articles
-- https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/
-- http://www.2ality.com/2014/12/es6-proxies.html
-- http://exploringjs.com/es6/ch_proxies.html
-- https://ponyfoo.com/articles/es6-proxies-in-depth
+- [Exploring JS chapter 28. Metaprogramming with proxies](http://exploringjs.com/es6/ch_proxies.html) by Dr. Axel Rauschmayer
+- [ES6 Proxies in Depth](https://ponyfoo.com/articles/es6-proxies-in-depth) by Nicolás Bevacqua
+- [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies?hl=en) by Addy Osmani
+- [ES6 In Depth: Proxies](https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/) by Jason Orendorff
 
 ### Modules/Packages
 
