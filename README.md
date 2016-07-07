@@ -8,7 +8,7 @@ Know of any brilliant resources? [Let us know](https://github.com/mikaelbr/proxy
 
 TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./examples-summary.md).
 
-## Resources
+## Proxy Resources
 
 ### Presentations
 
@@ -22,14 +22,26 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [ES6 In Depth: Proxies](https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/) by Jason Orendorff
 - [Object Path resolver](https://h3manth.com/new/blog/2016/path-resolver-with-javascript-proxies/)
 - [Negitive arrays](https://h3manth.com/new/blog/2013/negative-array-index-in-javascript/)
+- [Meta-programming JavaScript Using Proxies](http://dzautner.com/meta-programming-javascript-using-proxies/) by Daniel Zautner _(Uses an old edition of the Proxy API and is outdated, but the concepts are the same.)_
 
-### Modules/Packages
+### Modules
 
 - [zer](https://github.com/jbmusso/zer): Zer helps you serialize any JavaScript chains to String representations of any languages by leveraging ES2015 `Proxy` objects
 - [negative-array](https://github.com/sindresorhus/negative-array): Negative array index support `array[-1]` using ES2015 Proxy
 - [tpyo](https://github.com/mathiasbynens/tpyo): A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
 - [stevia](https://github.com/traviskaufman/stevia): Experimental module providing natural sweetening for javascript objects
 - [known](https://github.com/sindresorhus/known): Allow only access to known object properties using ES2015 Proxy
+
+
+## Meta-programming in general
+
+> Resources not using JavaScript Proxy, but shows different usages of creative and awesome meta-programming to be used as inspiration.
+
+### Modules
+
+- [jsPipe](https://github.com/dzautner/jsPipe): Implementing pipes in Javascript using pseudo operator overloading.
+- [JSDecorators](https://github.com/dzautner/JSDecorators): Python like decorators in Javascript with pseudo operator overloading.
+
 
 ---
 
