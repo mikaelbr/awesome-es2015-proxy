@@ -1,8 +1,8 @@
 # JavaScript Proxy
 
-For learning how to use JavaScript Proxy, or just to see what is possible.
+> :goat: For learning how to use [JavaScript Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy), or just to see what is possible. The Proxy object was included in the ES2015 iteration of the standard and is available in all evergreen browsers and Node.js v6. Unfortunately as it is a big language semantic change, it cannot be polyfilled through transpilers such as Babel.
 
-## External Resources
+## Resources
 
 ### Presentations
 
@@ -21,7 +21,9 @@ For learning how to use JavaScript Proxy, or just to see what is possible.
 - [zer](https://github.com/jbmusso/zer): Zer helps you serialize any JavaScript chains to String representations of any languages by leveraging ES2015 `Proxy` objects
 - [negative-array](https://github.com/sindresorhus/negative-array): Negative array index support `array[-1]` using ES2015 Proxy
 
-## Examples
+---
+
+## Examples in this repo
 
 Run all examples in this repo by using `node@6`:
 
