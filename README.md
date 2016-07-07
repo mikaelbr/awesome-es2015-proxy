@@ -27,7 +27,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [negative-array](https://github.com/sindresorhus/negative-array): Negative array index support `array[-1]` using ES2015 Proxy
 - [tpyo](https://github.com/mathiasbynens/tpyo): A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
 - [stevia](https://github.com/traviskaufman/stevia): Experimental module providing natural sweetening for javascript objects
-- [known](https://github.com/sindresorhus/known) - Allow only access to known object properties using ES2015 Proxy
+- [known](https://github.com/sindresorhus/known): Allow only access to known object properties using ES2015 Proxy
 
 ---
 
