@@ -14,7 +14,7 @@
     "mocha": "^2.5.2"
   },
   "scripts": {
-    "test": "mocha test-tools/"
+    "test": "mocha examples/test-tools/"
   },
   "keywords": ["javascript", "proxy", "fun", "metaprogramming"],
   "author": "Mikael Brevik <mikaelbre@gmail.com>",
