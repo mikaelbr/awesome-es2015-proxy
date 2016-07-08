@@ -32,6 +32,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [stevia](https://github.com/traviskaufman/stevia): Experimental module providing natural sweetening for javascript objects
 - [known](https://github.com/sindresorhus/known): Allow only access to known object properties using ES2015 Proxy
 - [iSeries](https://github.com/anywhichway/iSeries): A set of modules that use Proxy to extend and enhance your existing JavaScript classes.
+- [proxy-observe](https://github.com/anywhichway/proxy-observe): A Proxy based implementation of Object.observe
 
 ## Meta-programming in general
 
