@@ -31,7 +31,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [tpyo](https://github.com/mathiasbynens/tpyo): A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
 - [stevia](https://github.com/traviskaufman/stevia): Experimental module providing natural sweetening for javascript objects
 - [known](https://github.com/sindresorhus/known): Allow only access to known object properties using ES2015 Proxy
-
+- [iSeries](https://github.com/anywhichway/iSeries): A set of modules that use Proxy to extend and enhance your existing JavaScript classes.
 
 ## Meta-programming in general
 
