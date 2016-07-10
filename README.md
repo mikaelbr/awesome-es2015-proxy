@@ -33,6 +33,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [known](https://github.com/sindresorhus/known): Allow only access to known object properties using ES2015 Proxy
 - [iSeries](https://github.com/anywhichway/iSeries): A set of modules that use Proxy to extend and enhance your existing JavaScript classes.
 - [proxy-observe](https://github.com/anywhichway/proxy-observe): A Proxy based implementation of Object.observe
+- [Experimental Safe JavaScript Navigation
+](https://gist.github.com/dakaraphi/6a87168db66fd8f032d2): The purpose of this function is to provide a way to avoid deep nested conditionals when traversing a hierarchy of objects
 
 ## Meta-programming in general
 
