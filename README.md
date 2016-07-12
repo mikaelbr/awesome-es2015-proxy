@@ -16,6 +16,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - Video: [Breaking the Fourth Wall With JavaScript](https://opbeat.com/events/web-rebels-2016/#breaking-the-fourth-wall-with-javascript) by Mikael Brevik
 
 ### Articles
+- [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/) by Bryce Johnson
 - [Exploring JS chapter 28. Metaprogramming with proxies](http://exploringjs.com/es6/ch_proxies.html) by Dr. Axel Rauschmayer
 - [ES6 Proxies in Depth](https://ponyfoo.com/articles/es6-proxies-in-depth) by Nicolás Bevacqua
 - [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies?hl=en) by Addy Osmani
