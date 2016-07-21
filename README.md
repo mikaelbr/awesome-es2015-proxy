@@ -36,6 +36,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [proxy-observe](https://github.com/anywhichway/proxy-observe): A Proxy based implementation of Object.observe
 - [Experimental Safe JavaScript Navigation
 ](https://gist.github.com/dakaraphi/6a87168db66fd8f032d2): The purpose of this function is to provide a way to avoid deep nested conditionals when traversing a hierarchy of objects
+- [allora](https://github.com/GianlucaGuarini/allora): Promisify everything in less tha ~50 lines It can be used to use promises on any javascript object.
 
 ## Meta-programming in general
 
