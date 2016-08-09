@@ -17,6 +17,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 
 ### Articles
 - [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/) by Bryce Johnson
+- [Metaprogramming in ES6: Part 3 - Proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/) by Keith Cirkel
 - [Exploring JS chapter 28. Metaprogramming with proxies](http://exploringjs.com/es6/ch_proxies.html) by Dr. Axel Rauschmayer
 - [ES6 Proxies in Depth](https://ponyfoo.com/articles/es6-proxies-in-depth) by Nicolás Bevacqua
 - [Introducing ES2015 Proxies](https://developers.google.com/web/updates/2016/02/es2015-proxies?hl=en) by Addy Osmani
@@ -42,6 +43,12 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 ## Meta-programming in general
 
 > Resources not using JavaScript Proxy, but shows different usages of creative and awesome meta-programming to be used as inspiration.
+
+### Articles
+
+- [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) by Keith Cirkel
+- [Metaprogramming in ES6: Part 2 - Reflect](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-2-reflect/) by Keith Cirkel
+
 
 ### Modules
 
