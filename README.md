@@ -13,7 +13,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 ### Presentations
 
 - Slides: [Metaprogramming SUPERPOWERS](http://slides.com/elektronik/metaprogramming-via-es2015-proxies#/) by Nickolay Ribal
-- Video: [Breaking the Fourth Wall With JavaScript](https://opbeat.com/events/web-rebels-2016/#breaking-the-fourth-wall-with-javascript) by Mikael Brevik
+- Video: [Breaking the Fourth Wall With JavaScript](http://opbeat.com/community/posts/breaking-the-fourth-wall-with-javascript-by-mikael-brevik/) by Mikael Brevik
 
 ### Articles
 - [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/) by Bryce Johnson
