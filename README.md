@@ -1,10 +1,16 @@
-# JavaScript Proxy
+# `proxy-fun`
 
 > :goat: For learning how to use [JavaScript Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy), or just to see what is possible through metaprogramming in modern JavaScript. Tries to collect resources such as presentations, articles, modules and examples using Proxy, Reflect and other intercession type metaprogramming.
 
 > The Proxy object was included in the ES2015 iteration of the standard and is available in all evergreen browsers and Node.js v6. Unfortunately as it is a big language semantic change, it cannot be polyfilled through transpilers such as Babel.
 
 Know of any brilliant resources? [Let us know](https://github.com/mikaelbr/proxy-fun/issues/new) and we'll create a vast collection of awesomeness.
+
+## JavaScript ES2015 Proxy
+
+Proxies are a common pattern in both programming and networking. It often entails something interfacing with something else. Usually a proxy takes the role of the original contstruct and intercepts calls made to that construct and in some cases altering it's original behaviour. This allows you to enrich functions with more actions or operations in a transitive manner, or even intercept and cancel an action.
+
+A proxy can be looked at as a decorator function, but with you can intercept default language semantics also, in a meta-level of programming instead of at the base-level.
 
 TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./examples-summary.md).
 
