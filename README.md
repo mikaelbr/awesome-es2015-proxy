@@ -46,6 +46,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 ](https://gist.github.com/dakaraphi/6a87168db66fd8f032d2): The purpose of this function is to provide a way to avoid deep nested conditionals when traversing a hierarchy of objects
 - [allora](https://github.com/GianlucaGuarini/allora): Promisify everything in less tha ~50 lines It can be used to use promises on any javascript object.
 - [stroxy](https://github.com/nilssolanki/stroxy): A simple streaming wrapper for native event functions (e.g. `addEventListener`) using ES2015 proxies.
+- [Declaraoids](https://github.com/Matsemann/Declaraoids): Declarative programming on steroids. 
 
 ## Meta-programming in general
 
