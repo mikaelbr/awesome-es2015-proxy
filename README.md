@@ -47,6 +47,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [allora](https://github.com/GianlucaGuarini/allora): Promisify everything in less tha ~50 lines It can be used to use promises on any javascript object.
 - [stroxy](https://github.com/nilssolanki/stroxy): A simple streaming wrapper for native event functions (e.g. `addEventListener`) using ES2015 proxies.
 - [Declaraoids](https://github.com/Matsemann/Declaraoids): Declarative programming on steroids. 
+- [python-range](https://github.com/Gothdo/range): A JavaScript implementation of the Python's `range()` function.
 
 ## Meta-programming in general
 
