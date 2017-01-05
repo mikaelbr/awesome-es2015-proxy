@@ -52,6 +52,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [stroxy](https://github.com/nilssolanki/stroxy): A simple streaming wrapper for native event functions (e.g. `addEventListener`) using ES2015 proxies.
 - [Declaraoids](https://github.com/Matsemann/Declaraoids): Declarative programming on steroids. 
 - [python-range](https://github.com/Gothdo/range): A JavaScript implementation of the Python's `range()` function.
+- [rebridge](https://github.com/CapacitorSet/rebridge): Transparent Javascript-Redis bridge
 
 ## Meta-programming in general
 
