@@ -23,7 +23,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 
 ### Videos
 
-- [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
+- [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies) by Kent C. Dodds
 
 ### Articles
 - [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/) by Bryce Johnson
