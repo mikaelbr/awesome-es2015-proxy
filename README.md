@@ -21,6 +21,10 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - Slides: [Metaprogramming SUPERPOWERS](http://slides.com/elektronik/metaprogramming-via-es2015-proxies#/) by Nickolay Ribal
 - Video: [Breaking the Fourth Wall With JavaScript](http://opbeat.com/community/posts/breaking-the-fourth-wall-with-javascript-by-mikael-brevik/) by Mikael Brevik
 
+### Videos
+
+- [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies)
+
 ### Articles
 - [6 compelling use cases for ES6 proxies](http://devbryce.com/use-cases-for-es6-proxies/) by Bryce Johnson
 - [Metaprogramming in ES6: Part 3 - Proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/) by Keith Cirkel
