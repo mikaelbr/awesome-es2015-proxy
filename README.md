@@ -20,6 +20,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 
 - Slides: [Metaprogramming SUPERPOWERS](http://slides.com/elektronik/metaprogramming-via-es2015-proxies#/) by Nickolay Ribal
 - Video: [Breaking the Fourth Wall With JavaScript](http://opbeat.com/community/posts/breaking-the-fourth-wall-with-javascript-by-mikael-brevik/) by Mikael Brevik
+- Slides: [Diving into ES2015 proxy performance in V8](https://docs.google.com/presentation/d/1mpRb6iYFcFgeQbvx-Slv6-3oh4ySoveh7Jd0e_S09Ec/edit#slide=id.p) by Maya Lekova
 
 ### Videos
 
