@@ -55,6 +55,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [rebridge](https://github.com/CapacitorSet/rebridge): Transparent Javascript-Redis bridge.
 - [box-js](https://github.com/CapacitorSet/box-js): A tool for studying JavaScript malware.
 - [v](https://github.com/DiegoRBaquero/V): Secure, Synchronized, Realtime, Cloud, Native JavaScript Variables & Events.
+- [Promiser](https://gist.github.com/jasuperior/5d339f9c2572b3bb52d487de4086a3b2): Promise combination resolver by get accessor pattern.
 
 ## Meta-programming in general
 
