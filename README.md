@@ -57,6 +57,9 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [box-js](https://github.com/CapacitorSet/box-js): A tool for studying JavaScript malware.
 - [v](https://github.com/DiegoRBaquero/V): Secure, Synchronized, Realtime, Cloud, Native JavaScript Variables & Events.
 - [Promiser](https://gist.github.com/jasuperior/5d339f9c2572b3bb52d487de4086a3b2): Promise combination resolver by get accessor pattern.
+- [React Easy State](https://github.com/solkimicreb/react-easy-state): A transparent state management library for React.
+- [The Observer Utility](https://github.com/nx-js/observer-util): A general purpose transparent reactivity library (React Easy State is just a thin wrapper of it). It uses ES6 Proxies to achieve a 100% language coverage for reactivity.
+- [The Compiler Utility](https://github.com/nx-js/compiler-util): A 'sandboxed' code evaluation library. It uses ES6 Proxies (has traps) in conjuction with the `with` keyword to 'sandbox' code.
 
 ## Meta-programming in general
 
