@@ -38,6 +38,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [Meta-programming JavaScript Using Proxies](http://dzautner.com/meta-programming-javascript-using-proxies/) by Daniel Zautner _(Uses an old edition of the Proxy API and is outdated, but the concepts are the same.)_
 - [Using ES2015 Proxy for fun and profit](https://snyk.io/blog/using-es2015-proxy-for-fun-and-profit/) by Alon Niv
 - [How to use JavaScript Proxies for Fun and Profit](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8) by Alberto Gimeno
+- [Understanding JavaScript Proxies by Examining on-change Library](https://codeburst.io/understanding-javascript-proxies-by-examining-on-change-library-f252eddf76c2) by Arfat Salman
 
 ### Modules
 
