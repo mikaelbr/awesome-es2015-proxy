@@ -63,6 +63,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [The Observer Utility](https://github.com/nx-js/observer-util): A general purpose transparent reactivity library (React Easy State is just a thin wrapper of it). It uses ES6 Proxies to achieve a 100% language coverage for reactivity.
 - [The Compiler Utility](https://github.com/nx-js/compiler-util): A 'sandboxed' code evaluation library. It uses ES6 Proxies (has traps) in conjuction with the `with` keyword to 'sandbox' code.
 - [Did I do that?](https://github.com/mikaelbr/did-i-do-that): A debug tool based on JavaScript Proxy to track surprising/unwanted mutation of objects.
+- [mewt](https://github.com/sdgluck/mewt): Array and object immutability implemented in under one kilobyte using Proxies.
+- [objecthistory](https://github.com/sdgluck/objecthistory): Object undo, redo & change history using Proxies.
 
 ## Meta-programming in general
 
