@@ -65,6 +65,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [Did I do that?](https://github.com/mikaelbr/did-i-do-that): A debug tool based on JavaScript Proxy to track surprising/unwanted mutation of objects.
 - [mewt](https://github.com/sdgluck/mewt): Array and object immutability implemented in under one kilobyte using Proxies.
 - [objecthistory](https://github.com/sdgluck/objecthistory): Object undo, redo & change history using Proxies.
+- [hoopy](https://github.com/philbooth/hoopy): Circular array type
 
 ## Meta-programming in general
 
