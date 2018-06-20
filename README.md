@@ -66,6 +66,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [mewt](https://github.com/sdgluck/mewt): Array and object immutability implemented in under one kilobyte using Proxies.
 - [objecthistory](https://github.com/sdgluck/objecthistory): Object undo, redo & change history using Proxies.
 - [hoopy](https://github.com/philbooth/hoopy): Circular array type
+- [emmis](https://github.com/christianalfoni/emmis): Chaining API where you reduce over payload and operators, like redux
 
 ## Meta-programming in general
 
