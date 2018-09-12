@@ -28,6 +28,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [Use ES6 Proxies](https://egghead.io/lessons/javascript-use-es6-proxies) by Kent C. Dodds
 
 ### Articles
+
+- [Recreating Python's Slice Syntax in JavaScript Using ES6 Proxies](https://intoli.com/blog/python-slicing-in-javascript/) by Evan Sangaline
 - [Metaprogramming in ES6: Part 3 - Proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/) by Keith Cirkel
 - [Exploring JS chapter 28. Metaprogramming with proxies](http://exploringjs.com/es6/ch_proxies.html) by Dr. Axel Rauschmayer
 - [ES6 Proxies in Depth](https://ponyfoo.com/articles/es6-proxies-in-depth) by Nicolás Bevacqua
