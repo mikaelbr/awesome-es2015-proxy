@@ -44,6 +44,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 
 ### Modules
 
+- [slice](https://github.com/intoli/slice): Slice implements Python's extended slice syntax and negative indexing in JavaScript using proxies.
 - [zer](https://github.com/jbmusso/zer): Zer helps you serialize any JavaScript chains to String representations of any languages by leveraging ES2015 `Proxy` objects
 - [negative-array](https://github.com/sindresorhus/negative-array): Negative array index support `array[-1]` using ES2015 Proxy
 - [tpyo](https://github.com/mathiasbynens/tpyo): A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.
