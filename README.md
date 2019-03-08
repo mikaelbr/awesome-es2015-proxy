@@ -70,6 +70,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [objecthistory](https://github.com/sdgluck/objecthistory): Object undo, redo & change history using Proxies.
 - [hoopy](https://github.com/philbooth/hoopy): Circular array type
 - [emmis](https://github.com/christianalfoni/emmis): Chaining API where you reduce over payload and operators, like redux
+- [rus_roulette](https://github.com/naorzr/rus_roulette): Bringing runtime errors back to fashion
+
 
 ## Meta-programming in general
 
@@ -79,6 +81,7 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 
 - [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/) by Keith Cirkel
 - [Metaprogramming in ES6: Part 2 - Reflect](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-2-reflect/) by Keith Cirkel
+- [Javascript Proxies, Russian Roulette and some Practical examples](https://medium.com/@naorzruk/javascript-proxies-russian-roulette-and-some-practical-examples-35f7a1e0612c)
 
 
 ### Modules
