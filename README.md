@@ -71,6 +71,8 @@ TL;DR? See an overview of examples using JavaScript Proxy in [the summary](./exa
 - [hoopy](https://github.com/philbooth/hoopy): Circular array type
 - [emmis](https://github.com/christianalfoni/emmis): Chaining API where you reduce over payload and operators, like redux
 - [rus_roulette](https://github.com/naorzr/rus_roulette): Bringing runtime errors back to fashion
+- [Echo](https://github.com/mrjacobbloom/echo): Write a line of code that starts with `Echo`, and Echo will print it back to the console.
+- [Comlink](https://github.com/GoogleChromeLabs/comlink): Uses proxies to hide the fact that you're using Web Workers.
 
 
 ## Meta-programming in general
